@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="io.agora.tutorials1v1acall.test">
+
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="28" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.support.test.runner.AndroidJUnitRunner"
+                     android:targetPackage="io.agora.tutorials1v1acall"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for io.agora.tutorials1v1acall"/>
+</manifest>

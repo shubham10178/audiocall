@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:2:1-28:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/6edf85bf2f08f4130ff82f3465e74f54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/4482d223fe846ff75cfb391c3ceeaae2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/5064605432d0658bac84b4641928d186/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/7ad45427f5a956f93e3a73e659cf4b14/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/41a7b1dc8ae1307bfa68e6e9f326b1ed/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/823d1227157f4982ecdd6ce77750d053/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/94f1c4b090d4dba56024a9fa3d65420c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/16d4c492e592830aeb6e784523948b8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/4a5181934b15d642205f59bb4d6a38d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/d7e3d2ad8bdf31d903780cd4fd887804/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/1e0c56d4392082df30a9a48111686151/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/62513ac2103d74bf31745d7e00e4051f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/c0e7130e724b37f8ebd7a36cae44c1ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/52b055cd0c303945ad832434de370460/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/7430a9910e99e5cc8f2260958e3183d0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/3f8a828c79d57193dfc0db067feca9f7/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/87019603e25dc0c8f178463b05db27d9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/249a4a1c4fd74ed1d51c9d17b6b086ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/76903797aedda1f82700c7c9d5108f4e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/0757b748c740ebf0d95a12718b82ab43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/5d0a514cb3699610f9f95d3f112161d3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/70f43a45a20c15d865d02be602fe96f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/3b545b9d4d0414a0406e5b3065830c7e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/7973342475c27b6c163120079ec82c73/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/561f892bfa556a0ae0f4b52d0d5031a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/94eca292a94ef9290d057dc98e166b79/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:2:1-28:12
+		INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:8:22-77
+application
+ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:10:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/7430a9910e99e5cc8f2260958e3183d0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/7430a9910e99e5cc8f2260958e3183d0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/3f8a828c79d57193dfc0db067feca9f7/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/3f8a828c79d57193dfc0db067feca9f7/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/7430a9910e99e5cc8f2260958e3183d0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:15:9-40
+activity#io.agora.tutorials1v1acall.VoiceChatViewActivity
+ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:16:9-25:20
+	android:screenOrientation
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:18:13-55
+	android:theme
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:17:13-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/6edf85bf2f08f4130ff82f3465e74f54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/6edf85bf2f08f4130ff82f3465e74f54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/4482d223fe846ff75cfb391c3ceeaae2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/4482d223fe846ff75cfb391c3ceeaae2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/5064605432d0658bac84b4641928d186/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/5064605432d0658bac84b4641928d186/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/7ad45427f5a956f93e3a73e659cf4b14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/7ad45427f5a956f93e3a73e659cf4b14/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/41a7b1dc8ae1307bfa68e6e9f326b1ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/41a7b1dc8ae1307bfa68e6e9f326b1ed/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/823d1227157f4982ecdd6ce77750d053/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/823d1227157f4982ecdd6ce77750d053/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/94f1c4b090d4dba56024a9fa3d65420c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/94f1c4b090d4dba56024a9fa3d65420c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/16d4c492e592830aeb6e784523948b8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/16d4c492e592830aeb6e784523948b8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/4a5181934b15d642205f59bb4d6a38d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/4a5181934b15d642205f59bb4d6a38d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/d7e3d2ad8bdf31d903780cd4fd887804/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/d7e3d2ad8bdf31d903780cd4fd887804/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/1e0c56d4392082df30a9a48111686151/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/1e0c56d4392082df30a9a48111686151/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/62513ac2103d74bf31745d7e00e4051f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/62513ac2103d74bf31745d7e00e4051f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/c0e7130e724b37f8ebd7a36cae44c1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/c0e7130e724b37f8ebd7a36cae44c1ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/52b055cd0c303945ad832434de370460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/52b055cd0c303945ad832434de370460/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/7430a9910e99e5cc8f2260958e3183d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/7430a9910e99e5cc8f2260958e3183d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/3f8a828c79d57193dfc0db067feca9f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/3f8a828c79d57193dfc0db067feca9f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/87019603e25dc0c8f178463b05db27d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/87019603e25dc0c8f178463b05db27d9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/249a4a1c4fd74ed1d51c9d17b6b086ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/249a4a1c4fd74ed1d51c9d17b6b086ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/76903797aedda1f82700c7c9d5108f4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/76903797aedda1f82700c7c9d5108f4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/0757b748c740ebf0d95a12718b82ab43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/0757b748c740ebf0d95a12718b82ab43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/5d0a514cb3699610f9f95d3f112161d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/5d0a514cb3699610f9f95d3f112161d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/70f43a45a20c15d865d02be602fe96f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/70f43a45a20c15d865d02be602fe96f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/3b545b9d4d0414a0406e5b3065830c7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/3b545b9d4d0414a0406e5b3065830c7e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/7973342475c27b6c163120079ec82c73/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/7973342475c27b6c163120079ec82c73/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/561f892bfa556a0ae0f4b52d0d5031a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/fluper/.gradle/caches/transforms-2/files-2.1/561f892bfa556a0ae0f4b52d0d5031a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/94eca292a94ef9290d057dc98e166b79/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/fluper/.gradle/caches/transforms-2/files-2.1/94eca292a94ef9290d057dc98e166b79/AndroidManifest.xml:20:5-44
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+		ADDED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/fluper/AndroidStudioProjects/Agora-Android-Voice-Tutorial-1to1/app/src/main/AndroidManifest.xml
